@@ -86,7 +86,7 @@
 	},
 	"devDependencies": {
 		"@tweakpane/core": "1.x.x",
-		"@types/three": "0.x.x",
+		"@types/three": "0.141.0",
 		"@typescript-eslint/eslint-plugin": "5.x.x",
 		"@typescript-eslint/parser": "5.x.x",
 		"autoprefixer": "10.x.x",
@@ -104,7 +104,6 @@
 		"eslint": "8.x.x",
 		"eslint-config-aether": "1.x.x",
 		"eslint-watch": "8.x.x",
-		"tiny-glob": "0.x.x",
 		"gzipper": "7.x.x",
 		"hugo-bin": "0.x.x",
 		"mkdirp": "1.x.x",
@@ -117,8 +116,9 @@
 		"stylelint": "14.x.x",
 		"stylelint-config-standard-scss": "4.x.x",
 		"stylelint-order": "5.x.x",
-		"three": "0.x.x",
+		"three": "0.141.0",
 		"three-demo": "5.x.x",
+		"tiny-glob": "0.x.x",
 		"tslib": "2.x.x",
 		"tweakpane": "3.x.x",
 		"typescript": "4.x.x"

@@ -72,6 +72,7 @@ await esbuild.build({
 	banner: { js: banner },
 	logLevel: "info",
 	format: "esm",
+	target: "es6",
 	bundle: true,
 	external,
 	plugins
@@ -83,6 +84,7 @@ await esbuild.build({
 	banner: { js: banner },
 	logLevel: "info",
 	format: "esm",
+	target: "es6",
 	bundle: true,
 	external,
 	plugins
